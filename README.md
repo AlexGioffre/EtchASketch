@@ -1,0 +1,1 @@
+A simple Etch A Sketch web app, nice challenge from The Odin Porject, make you try something new on js, the hard part for me was the Grid creationg, then i remeber the display grid and everything become more easy, after that the rest was easy to make
